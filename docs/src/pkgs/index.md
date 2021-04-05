@@ -34,7 +34,7 @@ you are interested in most.
   * [PaddedViews.jl](https://github.com/JuliaArrays/PaddedViews.jl)\* add virtual padding to the edges
     of an array. It also allows you to composite multiple images together.
   * [TestImages.jl](https://github.com/JuliaImages/TestImages.jl) provides several "standard" test images.
-  * Image visulization are supported by [various packages](@ref sec_visualization)
+  * Image visualization are supported by [various packages](@ref sec_visualization)
   * Image saving and loading are supported by packages under [JuliaIO](@ref sec_imageio)
 * high-level algorithms
   * [ImageBinarization.jl](https://github.com/zygmuntszpak/ImageBinarization.jl) provides various
